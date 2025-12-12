@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap5")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("CreditCalculator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a310d82ce1ac2b4ccdbdeed8fdb078340ce90218")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9247e1baeed0ce4eb23d23253480095786221003")]
 [assembly: System.Reflection.AssemblyProductAttribute("CreditCalculator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CreditCalculator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -3,36 +3,16 @@
   "WorkspaceRootPath": "D:\\Git\\AI\\AplikacjeInternetowe\\CreditCalculator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D2C9C408-7400-4847-ACB5-A4727C3E368F}|CreditCalculator\\CreditCalculator.csproj|d:\\git\\ai\\aplikacjeinternetowe\\creditcalculator\\creditcalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D2C9C408-7400-4847-ACB5-A4727C3E368F}|CreditCalculator\\CreditCalculator.csproj|solutionrelative:creditcalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D2C9C408-7400-4847-ACB5-A4727C3E368F}|CreditCalculator\\CreditCalculator.csproj|d:\\git\\ai\\aplikacjeinternetowe\\creditcalculator\\creditcalculator\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2C9C408-7400-4847-ACB5-A4727C3E368F}|CreditCalculator\\CreditCalculator.csproj|solutionrelative:creditcalculator\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D2C9C408-7400-4847-ACB5-A4727C3E368F}|CreditCalculator\\CreditCalculator.csproj|d:\\git\\ai\\aplikacjeinternetowe\\creditcalculator\\creditcalculator\\views\\calc\\result.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D2C9C408-7400-4847-ACB5-A4727C3E368F}|CreditCalculator\\CreditCalculator.csproj|solutionrelative:creditcalculator\\views\\calc\\result.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D2C9C408-7400-4847-ACB5-A4727C3E368F}|CreditCalculator\\CreditCalculator.csproj|d:\\git\\ai\\aplikacjeinternetowe\\creditcalculator\\creditcalculator\\models\\creditcalculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2C9C408-7400-4847-ACB5-A4727C3E368F}|CreditCalculator\\CreditCalculator.csproj|solutionrelative:creditcalculator\\models\\creditcalculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D2C9C408-7400-4847-ACB5-A4727C3E368F}|CreditCalculator\\CreditCalculator.csproj|d:\\git\\ai\\aplikacjeinternetowe\\creditcalculator\\creditcalculator\\views\\calc\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D2C9C408-7400-4847-ACB5-A4727C3E368F}|CreditCalculator\\CreditCalculator.csproj|solutionrelative:creditcalculator\\views\\calc\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D2C9C408-7400-4847-ACB5-A4727C3E368F}|CreditCalculator\\CreditCalculator.csproj|d:\\git\\ai\\aplikacjeinternetowe\\creditcalculator\\creditcalculator\\models\\calcform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D2C9C408-7400-4847-ACB5-A4727C3E368F}|CreditCalculator\\CreditCalculator.csproj|solutionrelative:creditcalculator\\models\\calcform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D2C9C408-7400-4847-ACB5-A4727C3E368F}|CreditCalculator\\CreditCalculator.csproj|d:\\git\\ai\\aplikacjeinternetowe\\creditcalculator\\creditcalculator\\models\\messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D2C9C408-7400-4847-ACB5-A4727C3E368F}|CreditCalculator\\CreditCalculator.csproj|solutionrelative:creditcalculator\\models\\messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D2C9C408-7400-4847-ACB5-A4727C3E368F}|CreditCalculator\\CreditCalculator.csproj|d:\\git\\ai\\aplikacjeinternetowe\\creditcalculator\\creditcalculator\\models\\calcresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D2C9C408-7400-4847-ACB5-A4727C3E368F}|CreditCalculator\\CreditCalculator.csproj|solutionrelative:creditcalculator\\models\\calcresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D2C9C408-7400-4847-ACB5-A4727C3E368F}|CreditCalculator\\CreditCalculator.csproj|d:\\git\\ai\\aplikacjeinternetowe\\creditcalculator\\creditcalculator\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D2C9C408-7400-4847-ACB5-A4727C3E368F}|CreditCalculator\\CreditCalculator.csproj|solutionrelative:creditcalculator\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D2C9C408-7400-4847-ACB5-A4727C3E368F}|CreditCalculator\\CreditCalculator.csproj|d:\\git\\ai\\aplikacjeinternetowe\\creditcalculator\\creditcalculator\\controllers\\calccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D2C9C408-7400-4847-ACB5-A4727C3E368F}|CreditCalculator\\CreditCalculator.csproj|solutionrelative:creditcalculator\\controllers\\calccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D2C9C408-7400-4847-ACB5-A4727C3E368F}|CreditCalculator\\CreditCalculator.csproj|d:\\git\\ai\\aplikacjeinternetowe\\creditcalculator\\creditcalculator\\views\\calc\\history.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2C9C408-7400-4847-ACB5-A4727C3E368F}|CreditCalculator\\CreditCalculator.csproj|solutionrelative:creditcalculator\\views\\calc\\history.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,104 +22,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "D:\\Git\\AI\\AplikacjeInternetowe\\CreditCalculator\\CreditCalculator\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "CreditCalculator\\Models\\ErrorViewModel.cs",
-              "ToolTip": "D:\\Git\\AI\\AplikacjeInternetowe\\CreditCalculator\\CreditCalculator\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "CreditCalculator\\Models\\ErrorViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Git\\AI\\AplikacjeInternetowe\\CreditCalculator\\CreditCalculator\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "CreditCalculator\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Git\\AI\\AplikacjeInternetowe\\CreditCalculator\\CreditCalculator\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "CreditCalculator\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-30T22:01:08.386Z"
+              "WhenOpened": "2025-12-12T15:04:32.485Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Git\\AI\\AplikacjeInternetowe\\CreditCalculator\\CreditCalculator\\Program.cs",
-              "RelativeDocumentMoniker": "CreditCalculator\\Program.cs",
-              "ToolTip": "D:\\Git\\AI\\AplikacjeInternetowe\\CreditCalculator\\CreditCalculator\\Program.cs",
-              "RelativeToolTip": "CreditCalculator\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-30T21:50:31.473Z",
+              "DocumentIndex": 2,
+              "Title": "History.cshtml",
+              "DocumentMoniker": "D:\\Git\\AI\\AplikacjeInternetowe\\CreditCalculator\\CreditCalculator\\Views\\Calc\\History.cshtml",
+              "RelativeDocumentMoniker": "CreditCalculator\\Views\\Calc\\History.cshtml",
+              "ToolTip": "D:\\Git\\AI\\AplikacjeInternetowe\\CreditCalculator\\CreditCalculator\\Views\\Calc\\History.cshtml",
+              "RelativeToolTip": "CreditCalculator\\Views\\Calc\\History.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-12T15:02:48.677Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Result.cshtml",
-              "DocumentMoniker": "D:\\Git\\AI\\AplikacjeInternetowe\\CreditCalculator\\CreditCalculator\\Views\\Calc\\Result.cshtml",
-              "RelativeDocumentMoniker": "CreditCalculator\\Views\\Calc\\Result.cshtml",
-              "ToolTip": "D:\\Git\\AI\\AplikacjeInternetowe\\CreditCalculator\\CreditCalculator\\Views\\Calc\\Result.cshtml",
-              "RelativeToolTip": "CreditCalculator\\Views\\Calc\\Result.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-30T21:42:23.703Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Git\\AI\\AplikacjeInternetowe\\CreditCalculator\\CreditCalculator\\Views\\Calc\\Index.cshtml",
-              "RelativeDocumentMoniker": "CreditCalculator\\Views\\Calc\\Index.cshtml",
-              "ToolTip": "D:\\Git\\AI\\AplikacjeInternetowe\\CreditCalculator\\CreditCalculator\\Views\\Calc\\Index.cshtml",
-              "RelativeToolTip": "CreditCalculator\\Views\\Calc\\Index.cshtml",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-30T21:40:32.151Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CalcController.cs",
-              "DocumentMoniker": "D:\\Git\\AI\\AplikacjeInternetowe\\CreditCalculator\\CreditCalculator\\Controllers\\CalcController.cs",
-              "RelativeDocumentMoniker": "CreditCalculator\\Controllers\\CalcController.cs",
-              "ToolTip": "D:\\Git\\AI\\AplikacjeInternetowe\\CreditCalculator\\CreditCalculator\\Controllers\\CalcController.cs",
-              "RelativeToolTip": "CreditCalculator\\Controllers\\CalcController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Title": "CreditCalculation.cs",
+              "DocumentMoniker": "D:\\Git\\AI\\AplikacjeInternetowe\\CreditCalculator\\CreditCalculator\\Models\\CreditCalculation.cs",
+              "RelativeDocumentMoniker": "CreditCalculator\\Models\\CreditCalculation.cs",
+              "ToolTip": "D:\\Git\\AI\\AplikacjeInternetowe\\CreditCalculator\\CreditCalculator\\Models\\CreditCalculation.cs",
+              "RelativeToolTip": "CreditCalculator\\Models\\CreditCalculation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-30T21:14:07.638Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Messages.cs",
-              "DocumentMoniker": "D:\\Git\\AI\\AplikacjeInternetowe\\CreditCalculator\\CreditCalculator\\Models\\Messages.cs",
-              "RelativeDocumentMoniker": "CreditCalculator\\Models\\Messages.cs",
-              "ToolTip": "D:\\Git\\AI\\AplikacjeInternetowe\\CreditCalculator\\CreditCalculator\\Models\\Messages.cs",
-              "RelativeToolTip": "CreditCalculator\\Models\\Messages.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-30T21:09:49.225Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CalcResult.cs",
-              "DocumentMoniker": "D:\\Git\\AI\\AplikacjeInternetowe\\CreditCalculator\\CreditCalculator\\Models\\CalcResult.cs",
-              "RelativeDocumentMoniker": "CreditCalculator\\Models\\CalcResult.cs",
-              "ToolTip": "D:\\Git\\AI\\AplikacjeInternetowe\\CreditCalculator\\CreditCalculator\\Models\\CalcResult.cs",
-              "RelativeToolTip": "CreditCalculator\\Models\\CalcResult.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-30T21:09:14.006Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CalcForm.cs",
-              "DocumentMoniker": "D:\\Git\\AI\\AplikacjeInternetowe\\CreditCalculator\\CreditCalculator\\Models\\CalcForm.cs",
-              "RelativeDocumentMoniker": "CreditCalculator\\Models\\CalcForm.cs",
-              "ToolTip": "D:\\Git\\AI\\AplikacjeInternetowe\\CreditCalculator\\CreditCalculator\\Models\\CalcForm.cs",
-              "RelativeToolTip": "CreditCalculator\\Models\\CalcForm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-30T21:00:22.331Z"
+              "WhenOpened": "2025-12-12T13:32:15.613Z",
+              "EditorCaption": ""
             }
           ]
         }
